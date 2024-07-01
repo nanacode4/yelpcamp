@@ -4,6 +4,8 @@ YelpCamp is a full-stack project where users can create and review campgrounds. 
 This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
 
 <img width="1431" alt="image" src="https://github.com/nanacode4/yelpcamp/assets/144553987/5e78c966-4616-492a-b465-f99903f86eb3">
+<img width="746" alt="image" src="https://github.com/nanacode4/yelpcamp/assets/144553987/e6a4ba0b-1ce7-4797-ad9c-f22ce5ea98c6">
+
 <img width="1431" alt="image" src="https://github.com/nanacode4/yelpcamp/assets/144553987/584a0066-27f3-4d49-a0e7-0557fabf1ba4">
 
 ## Functionlities
